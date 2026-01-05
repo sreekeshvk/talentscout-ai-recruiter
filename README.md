@@ -53,6 +53,7 @@ Installation & Setup
         cd talentscout-ai-recruiter
 
 Install dependencies:
+        
         pip install -r requirements.txt
 
 
@@ -63,5 +64,5 @@ Configure Environment: Create a .env file in the root:
 
 Run the App:
 
-
         streamlit run app.py
+
