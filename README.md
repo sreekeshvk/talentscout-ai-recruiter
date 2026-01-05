@@ -1,6 +1,6 @@
 # 💼 TalentScout AI: Technical Screening & Recruitment Portal
 
-TalentScout AI is a state-of-the-art recruitment automation tool that uses LLM-powered conversational intelligence (Groq/Llama 3.3) to conduct technical screenings. It bridges the gap between candidate assessment and HR efficiency through secure, encrypted data handling and automated performance analysis.
+TalentScout AI is a recruitment assisting tool that uses LLM-powered conversational intelligence (Groq/Llama 3.3) to conduct technical screenings. It bridges the gap between candidate assessment and HR efficiency through secure, encrypted data handling and automated performance analysis.
 
 ---
 
@@ -45,7 +45,7 @@ TalentScout/
     ├── config.py         # System Prompts & Constants
     └── utils.py          # Encryption & PDF Utilities
 
-
+```
 Installation & Setup
         Clone the repository:
 
@@ -62,5 +62,6 @@ Configure Environment: Create a .env file in the root:
         ENCRYPTION_KEY=your_generated_fernet_key
 
 Run the App:
+
 
         streamlit run app.py
