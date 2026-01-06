@@ -65,5 +65,8 @@ Configure Environment: Create a .env file in the root:
 Run the App:
 
         streamlit run app.py
-note The admin/hr dashboard is hr2026()
+
+
+Note: The admin/hr dashboard is hr2026
+
 
